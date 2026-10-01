@@ -1,12 +1,4 @@
-# Code your solutions in this file
 print("Written by: Ahmat and Fahmid")
-# writing about brooklyn
-print(
-    "Early morning fog rolls across the East River, framing the Brooklyn Bridge in silver light."
-)
-print(
-    "A train rattles along the elevated tracks, waking up the colorful streets of Bushwick."
-)
 print(
     "Thick morning mist hangs over the East River, surrounding the Brooklyn Bridge in a grey haze."
 )
@@ -37,3 +29,4 @@ print(
 print(
     "The Manhattan skyline sparkles over the water, but the true spirit of the city lives in Brooklyn."
 )
+print("eassy completed")
