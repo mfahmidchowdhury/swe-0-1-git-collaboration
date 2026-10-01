@@ -1,3 +1,4 @@
+print("Written by: Fahmidddd and Ahmat")
 print("Thick morning mist hangs over the East River, surrounding the Brooklyn Bridge in a grey haze.")
 print("A subway train clatters along the high tracks, stirring up the bright streets of Bushwick.")
 print("Baristas across Williamsburg pull espresso shots to fuel the early morning rush.")
