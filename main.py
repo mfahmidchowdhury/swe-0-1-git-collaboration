@@ -8,24 +8,32 @@ print(
     "A train rattles along the elevated tracks, waking up the colorful streets of Bushwick."
 )
 print(
-    "Baristas in Williamsburg start pulling espresso shots for the early morning commute."
-)
-print("Street artists uncap their spray cans, adding fresh murals to the brick walls.")
-print(
-    "Over in Prospect Park, runners loop around the meadow while dogs play on the grass."
+    "Thick morning mist hangs over the East River, surrounding the Brooklyn Bridge in a grey haze."
 )
 print(
-    "By afternoon, the scent of fresh wood-fired pizza drifts out of famous spots in DUMBO."
+    "A subway train clatters along the high tracks, stirring up the bright streets of Bushwick."
 )
 print(
-    "Kids gather at the local basketball courts, cheering as a shot swishes through the net."
+    "Baristas across Williamsburg pull espresso shots to fuel the early morning rush."
 )
 print(
-    "Golden hour hits the brownstones, bathing Brooklyn's iconic tree-lined streets in warm light."
+    "Local muralists shake their spray cans, filling brick facades with brand-new artwork."
 )
 print(
-    "As night falls, the Coney Island Wonder Wheel lights up the boardwalk along the ocean."
+    "In Prospect Park, joggers lap the main meadow while dogs sprint across the grass."
 )
 print(
-    "The skyline across the water sparkles, but the true pulse of the city stays right here in Brooklyn."
+    "Come afternoon, the smell of brick-oven pizza sweeps through the avenues of DUMBO."
+)
+print(
+    "Teenagers gather at neighborhood courts, cheering as a jump shot splashes through the net."
+)
+print(
+    "Late sun illuminates the brownstones, casting a warm glow over Brooklyn's quiet avenues."
+)
+print(
+    "When night falls, the Coney Island Wonder Wheel lights up the boardwalk near the beach."
+)
+print(
+    "The Manhattan skyline sparkles over the water, but the true spirit of the city lives in Brooklyn."
 )
